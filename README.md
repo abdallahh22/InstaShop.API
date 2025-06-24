@@ -1,0 +1,3 @@
+Tech Stack: ASP.NET Core, Clean Architecture, Repository Pattern, JWT, Identity, Linq , Entity Framework Core, SQL Server, Redis, Swagger, Postman
+Description:
+Developed a RESTful API for an e-commerce platform similar to InstaShop, a delivery service marketplace that connects users with local stores and delivery providers. Implemented authentication and authorization using JWT and Identity to ensure secure user access. The system allows users to browse stores, products, place orders, and track deliveries efficiently. Optimized database performance with Entity Framework Core and LINQ, and integrated Redis caching to improve response time. Designed the system following Clean Architecture principles for better scalability and maintainability
